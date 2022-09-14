@@ -1,4 +1,4 @@
-# dnserver
+yolo# dnserver
 
 Simple DNS server written in python for use in development and testing.
 
